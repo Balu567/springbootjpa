@@ -1,0 +1,15 @@
+#server:
+#  port: 8096
+#spring:
+#  datasource:
+#    username: root
+#    password: BaLu9502@srav
+#    url: jdbc:mysql://localhost:3307/balu
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.H2Dialect
